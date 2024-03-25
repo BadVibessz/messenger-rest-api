@@ -1,0 +1,85 @@
+{
+  "private_messages": {
+    "1": {
+      "ID": 1,
+      "FromUsername": "test",
+      "ToUsername": "test2",
+      "Content": "Excuse me, where am I?",
+      "SentAt": "2024-03-04T20:04:45.172072444+03:00",
+      "EditedAt": "2024-03-04T20:04:45.172072444+03:00"
+    },
+    "2": {
+      "ID": 2,
+      "FromUsername": "test2",
+      "ToUsername": "test",
+      "Content": "Ohh.. You are being tested too!",
+      "SentAt": "2024-03-04T20:04:45.172072444+03:00",
+      "EditedAt": "2024-03-04T20:04:45.172072444+03:00"
+    },
+    "3": {
+      "ID": 3,
+      "FromUsername": "test3",
+      "ToUsername": "test2",
+      "Content": "Have something?",
+      "SentAt": "2024-03-04T20:04:45.172072444+03:00",
+      "EditedAt": "2024-03-04T20:04:45.172072444+03:00"
+    },
+    "4": {
+      "ID": 4,
+      "FromUsername": "test2",
+      "ToUsername": "test3",
+      "Content": "What??.. Get off me!",
+      "SentAt": "2024-03-04T20:04:45.172072444+03:00",
+      "EditedAt": "2024-03-04T20:04:45.172072444+03:00"
+    }
+  },
+  "public_messages": {
+    "1": {
+      "ID": 1,
+      "FromUsername": "test",
+      "Content": "Hello everyone, I'm Test!",
+      "SentAt": "2024-03-04T20:04:45.172072444+03:00",
+      "EditedAt": "2024-03-04T20:04:45.172072444+03:00"
+    },
+    "2": {
+      "ID": 2,
+      "FromUsername": "test2",
+      "Content": "Hello everyone, I'm Test2 ;)",
+      "SentAt": "2024-03-04T20:04:45.172072444+03:00",
+      "EditedAt": "2024-03-04T20:04:45.172072444+03:00"
+    },
+    "3": {
+      "ID": 3,
+      "FromUsername": "test3",
+      "Content": "What's up! I'm Test3",
+      "SentAt": "2024-03-04T20:04:45.172072444+03:00",
+      "EditedAt": "2024-03-04T20:04:45.172072444+03:00"
+    }
+  },
+  "users": {
+    "1": {
+      "ID": 1,
+      "Email": "test@mail.ru",
+      "Username": "test",
+      "HashedPassword": "$2a$10$n1ZupQQL9NBnIDHShSIfwut3wf2cUMtsmzBo/7r29oRo4tYRrmoLS",
+      "CreatedAt": "2024-03-04T20:04:45.172072444+03:00",
+      "UpdatedAt": "2024-03-04T20:04:45.172072444+03:00"
+    },
+    "2": {
+      "ID": 2,
+      "Email": "test2@mail.ru",
+      "Username": "test2",
+      "HashedPassword": "$2a$10$O3bRPhNaWgVibnpkUFL.K.xXwmYnDKKMJ1Ak4iavFrSnn8wAsgYPW",
+      "CreatedAt": "2024-03-04T20:04:45.172072444+03:00",
+      "UpdatedAt": "2024-03-04T20:04:45.172072444+03:00"
+    },
+    "3": {
+      "ID": 3,
+      "Email": "test3@mail.ru",
+      "Username": "test3",
+      "HashedPassword": "$2a$10$lgQ9a71CwJQkAF1yUcKKl..RGDT4OaGRjyBAVFgGupkdMclmS7wMS",
+      "CreatedAt": "2024-03-04T20:04:45.172072444+03:00",
+      "UpdatedAt": "2024-03-04T20:04:45.172072444+03:00"
+    }
+  }
+}
